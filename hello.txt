@@ -1,0 +1,1 @@
+helloechp hellogit clone https://github.com/Galterino/GitTest.git > hello.txt
